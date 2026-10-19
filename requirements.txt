@@ -1,0 +1,9 @@
+streamlit
+groq
+pydantic
+pydantic-settings
+python-dotenv
+ddgs
+tavily-python
+pypdf
+pytest
